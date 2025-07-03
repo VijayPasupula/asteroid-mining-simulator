@@ -160,3 +160,660 @@ WARNING: Unmatched cancel notification for request id 70
 2025.06.19 20:56:23 INFO  Shutting down server
 2025.06.19 20:56:23 INFO  shutting down Metals
 2025.06.19 20:56:23 INFO  Exiting server
+2025.07.02 21:59:57 INFO  Started: Metals version 1.6.0 in folders '/home/vijay/Documents/asteroid-mining-simulator' for client Visual Studio Code 1.100.2.
+2025.07.02 21:59:58 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 21:59:59 INFO  skipping build import with status 'Dismissed'
+2025.07.02 21:59:59 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 21:59:59 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/build.sbt
+2025.07.02 22:00:02 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:00:03 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:00:03 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:00:04 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/build.sbt
+2025.07.02 22:00:04 INFO  skipping build import with status 'Dismissed'
+2025.07.02 22:00:05 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:00:05 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:00:05 INFO  time: code lens generation in 2.17s
+2025.07.02 22:00:05 INFO  time: code lens generation in 3.12s
+2025.07.02 22:00:05 INFO  time: code lens generation in 3.74s
+2025.07.02 22:00:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:01:59 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:22 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala
+2025.07.02 22:02:22 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:22 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:22 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:22 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:23 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:24 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:46 INFO  Shutting down server
+2025.07.02 22:02:46 INFO  shutting down Metals
+2025.07.02 22:02:46 INFO  Exiting server
+2025.07.03 20:55:03 INFO  Started: Metals version 1.6.0 in folders '/home/vijay/Documents/asteroid-mining-simulator' for client Visual Studio Code 1.100.2.
+2025.07.03 20:55:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 20:55:05 INFO  skipping build import with status 'Dismissed'
+2025.07.03 20:55:05 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 20:55:05 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala
+2025.07.03 20:55:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 20:55:10 INFO  time: code lens generation in 3.19s
+2025.07.03 20:55:10 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 20:55:11 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 20:55:15 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 20:55:26 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 20:55:26 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 20:55:26 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 20:55:26 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:11 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:11 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:11 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$BuildTargetNotFoundForPathException: No build target could be found for the path: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:94)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1456)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1112)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.07.03 21:09:11 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:11 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:11 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$BuildTargetNotFoundForPathException: No build target could be found for the path: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:94)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1456)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1112)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.07.03 21:09:11 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:11 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:12 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:12 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$BuildTargetNotFoundForPathException: No build target could be found for the path: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:94)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1456)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1112)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.07.03 21:09:12 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:12 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:11 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:12 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$BuildTargetNotFoundForPathException: No build target could be found for the path: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:94)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1456)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1112)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.07.03 21:09:11 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:11 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:13 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:13 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$BuildTargetNotFoundForPathException: No build target could be found for the path: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:94)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1456)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1112)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.07.03 21:09:13 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:13 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:14 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:14 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$BuildTargetNotFoundForPathException: No build target could be found for the path: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:94)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1456)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1112)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.07.03 21:09:13 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:13 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:17 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:17 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:17 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:17 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:23 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:23 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:24 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:24 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:25 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:26 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala
+2025.07.03 21:09:25 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:26 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:26 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:26 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:27 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:26 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:27 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:26 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:27 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:29 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala
+2025.07.03 21:09:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:30 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala
+2025.07.03 21:09:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:31 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:34 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/CelestialBody.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:34 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:34 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/build.sbt
+2025.07.03 21:09:34 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:34 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:34 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:34 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:35 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:42 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:44 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:57 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:57 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala
+2025.07.03 21:09:57 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:57 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala
+2025.07.03 21:09:57 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:57 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala
+2025.07.03 21:09:58 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:58 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:09:58 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:00 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:02 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala
+2025.07.03 21:10:02 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/Dynamics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:04 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/build.sbt
+2025.07.03 21:10:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:41 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala
+2025.07.03 21:10:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:41 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala
+2025.07.03 21:10:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:41 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala
+2025.07.03 21:10:42 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:42 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:42 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:42 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:43 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala
+2025.07.03 21:10:43 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:45 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/OrbitalMechanics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:45 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:46 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/build.sbt
+2025.07.03 21:10:46 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:45 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:10:45 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:00 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:00 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala
+2025.07.03 21:11:00 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:00 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala
+2025.07.03 21:11:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:01 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala
+2025.07.03 21:11:03 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:03 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:04 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala
+2025.07.03 21:11:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/physics/State.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:07 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/build.sbt
+2025.07.03 21:11:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:17 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:20 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:20 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala
+2025.07.03 21:11:20 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:20 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:20 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:11:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MiningOperations.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:21 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MiningOperations.scala
+2025.07.03 21:16:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MiningOperations.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:21 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MiningOperations.scala
+2025.07.03 21:16:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MiningOperations.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MiningOperations.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MiningOperations.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MiningOperations.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:30 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MiningOperations.scala
+2025.07.03 21:16:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MiningOperations.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:33 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MiningOperations.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:33 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala
+2025.07.03 21:16:33 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:33 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:33 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:33 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:35 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:37 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:37 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:37 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/build.sbt
+2025.07.03 21:16:37 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:37 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:16:49 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:18 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:18 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala
+2025.07.03 21:17:18 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:18 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala
+2025.07.03 21:17:18 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:18 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala
+2025.07.03 21:17:20 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:20 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:20 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:20 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:23 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala
+2025.07.03 21:17:23 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:25 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/mining/MinerRobot.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:43 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala
+2025.07.03 21:17:43 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:43 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:43 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala
+2025.07.03 21:17:43 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:43 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala
+2025.07.03 21:17:44 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:44 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:45 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:45 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:46 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala
+2025.07.03 21:17:46 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:17:59 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:18:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:18:06 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala
+2025.07.03 21:18:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:18:06 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala
+2025.07.03 21:18:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:18:06 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala
+2025.07.03 21:18:08 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:18:08 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:18:08 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:18:08 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:18:09 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala
+2025.07.03 21:18:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:18:10 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:01 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala
+2025.07.03 21:31:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:01 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala
+2025.07.03 21:31:02 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:02 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala
+2025.07.03 21:31:02 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:02 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:02 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:03 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:03 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala
+2025.07.03 21:31:03 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/SimulationEngine.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:06 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala
+2025.07.03 21:31:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:07 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala
+2025.07.03 21:31:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:08 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/spacecraft/Rocket.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:28 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:28 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala
+2025.07.03 21:31:28 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:28 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala
+2025.07.03 21:31:28 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:28 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala
+2025.07.03 21:31:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:30 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala
+2025.07.03 21:31:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:31:35 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/core/simulation/TimeStepper.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:17 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:17 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala
+2025.07.03 21:32:17 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:17 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala
+2025.07.03 21:32:17 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:17 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala
+2025.07.03 21:32:18 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:18 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:19 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:19 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:21 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala
+2025.07.03 21:32:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:24 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/Visualizer.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:50 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/UserInterface.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:50 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/UserInterface.scala
+2025.07.03 21:32:50 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/UserInterface.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:50 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/UserInterface.scala
+2025.07.03 21:32:57 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/UserInterface.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:57 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/UserInterface.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:57 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/UserInterface.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:57 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/UserInterface.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:32:58 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/UserInterface.scala
+2025.07.03 21:32:58 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/UserInterface.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:33:05 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/main/scala/com/mining/ui/UserInterface.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:34:39 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:34:39 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala
+2025.07.03 21:34:39 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:34:40 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala
+2025.07.03 21:34:40 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:34:40 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala
+2025.07.03 21:34:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:34:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:34:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:34:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:34:42 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala
+2025.07.03 21:34:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:34:44 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:34:46 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:34:46 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:35:26 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:35:42 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:35:42 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala
+2025.07.03 21:35:42 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:35:42 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala
+2025.07.03 21:35:42 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:35:42 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala
+2025.07.03 21:35:43 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:35:43 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:35:43 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:35:43 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:35:44 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala
+2025.07.03 21:35:44 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:09 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala
+2025.07.03 21:36:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:09 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala
+2025.07.03 21:36:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:09 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala
+2025.07.03 21:36:10 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:10 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:11 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:11 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:12 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala
+2025.07.03 21:36:12 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:12 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:20 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:26 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:26 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala
+2025.07.03 21:36:26 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:26 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala
+2025.07.03 21:36:26 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:26 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala
+2025.07.03 21:36:27 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:27 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:28 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:28 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:28 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala
+2025.07.03 21:36:28 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:29 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:38 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/Inventory.scala
+2025.07.03 21:36:38 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:38 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:38 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:38 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:38 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/Inventory.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:41 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala
+2025.07.03 21:36:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:59 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:59 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala
+2025.07.03 21:36:59 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:59 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala
+2025.07.03 21:36:59 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:36:59 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala
+2025.07.03 21:37:00 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:00 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:00 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:01 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala
+2025.07.03 21:37:02 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:03 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/CelestialBodySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:04 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala
+2025.07.03 21:37:03 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:03 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:05 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala
+2025.07.03 21:37:05 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:05 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/DynamicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:07 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala
+2025.07.03 21:37:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/OrbitalMechanicsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:09 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala
+2025.07.03 21:37:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:11 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/logistics/InventorySpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:11 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala
+2025.07.03 21:37:11 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:11 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:11 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:13 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/physics/StateSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:34 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:34 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala
+2025.07.03 21:37:34 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:34 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala
+2025.07.03 21:37:34 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:34 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala
+2025.07.03 21:37:36 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:36 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:36 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:36 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:37 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala
+2025.07.03 21:37:37 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:38 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:59 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala
+2025.07.03 21:37:59 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:59 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:59 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala
+2025.07.03 21:37:59 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:37:59 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala
+2025.07.03 21:38:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:01 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala
+2025.07.03 21:38:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MiningOperationsSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:30 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala
+2025.07.03 21:38:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:30 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala
+2025.07.03 21:38:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:30 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala
+2025.07.03 21:38:32 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:32 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:32 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:32 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:33 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala
+2025.07.03 21:38:33 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:34 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:38:39 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/RocketSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:01 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala
+2025.07.03 21:39:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:01 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala
+2025.07.03 21:39:01 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:01 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala
+2025.07.03 21:39:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:09 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala
+2025.07.03 21:39:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:11 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/spacecraft/SpacecraftSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:38 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:38 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala
+2025.07.03 21:39:38 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:38 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala
+2025.07.03 21:39:38 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:38 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala
+2025.07.03 21:39:39 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:39 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:38 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:39 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:40 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala
+2025.07.03 21:39:40 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:39:42 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/SimulationEngineSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:04 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala
+2025.07.03 21:40:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:04 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala
+2025.07.03 21:40:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:04 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala
+2025.07.03 21:40:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:07 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala
+2025.07.03 21:40:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:07 INFO  Created report: Optional[file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala]
+2025.07.03 21:40:07 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/home/vijay/Documents/asteroid-mining-simulator/.metals/.reports/metals-full/2025-07-03/r_empty-definition_21-40-07-168.md")
+2025.07.03 21:40:08 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/simulation/TimeStepperSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:21 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala
+2025.07.03 21:40:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:21 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:52 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:52 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala
+2025.07.03 21:40:52 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:40:52 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala
+2025.07.03 21:41:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:04 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:06 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:07 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala
+2025.07.03 21:41:07 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:09 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala
+2025.07.03 21:41:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:10 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:09 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:13 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/core/mining/MinerRobotSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:30 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala
+2025.07.03 21:41:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:30 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:31 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/VisualizerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:39 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala
+2025.07.03 21:41:39 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:39 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:39 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala
+2025.07.03 21:41:39 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:39 WARN  Could not find semantic tokens for: file:///home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala
+2025.07.03 21:41:40 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:40 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:40 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:40 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:41 WARN  no build target for: /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala
+2025.07.03 21:41:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.03 21:41:41 INFO  no build target found for /home/vijay/Documents/asteroid-mining-simulator/src/test/scala/com/mining/ui/UserInterfaceSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
